@@ -1,0 +1,126 @@
+C:\PROJE523\REHBER\bin\Debug\REHBER.exe
+C:\PROJE523\REHBER\bin\Debug\REHBER.pdb
+C:\PROJE523\REHBER\obj\Debug\ResolveAssemblyReference.cache
+C:\PROJE523\REHBER\obj\Debug\REHBER.Form1.resources
+C:\PROJE523\REHBER\obj\Debug\REHBER.Properties.Resources.resources
+C:\PROJE523\REHBER\obj\Debug\REHBER.csproj.GenerateResource.Cache
+C:\PROJE523\REHBER\obj\Debug\REHBER.exe
+C:\PROJE523\REHBER\obj\Debug\REHBER.pdb
+C:\Users\pc\Desktop\PROJE523\REHBER\obj\Debug\REHBER.exe
+C:\Users\pc\Desktop\PROJE523\REHBER\obj\Debug\REHBER.pdb
+C:\Users\pc\Desktop\PROJE523\REHBER\bin\Debug\REHBER.exe
+C:\Users\pc\Desktop\PROJE523\REHBER\bin\Debug\REHBER.pdb
+C:\Users\pc\Desktop\PROJE523\REHBER\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pc\Desktop\PROJE523\REHBER\obj\Debug\REHBER.Form1.resources
+C:\Users\pc\Desktop\PROJE523\REHBER\obj\Debug\REHBER.Properties.Resources.resources
+C:\Users\pc\Desktop\PROJE523\REHBER\obj\Debug\REHBER.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\PROJE523\REHBER\obj\Debug\REHBER.Form2.resources
+C:\Users\Elnure\Desktop\PROJE523\REHBER\obj\Debug\REHBER.exe
+C:\Users\Elnure\Desktop\PROJE523\REHBER\obj\Debug\REHBER.pdb
+C:\Users\Elnure\Desktop\PROJE523\REHBER\bin\Debug\REHBER.exe
+C:\Users\Elnure\Desktop\PROJE523\REHBER\bin\Debug\REHBER.pdb
+C:\Users\Elnure\Desktop\PROJE523\REHBER\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Elnure\Desktop\PROJE523\REHBER\obj\Debug\REHBER.Form2.resources
+C:\Users\Elnure\Desktop\PROJE523\REHBER\obj\Debug\REHBER.Form1.resources
+C:\Users\Elnure\Desktop\PROJE523\REHBER\obj\Debug\REHBER.Properties.Resources.resources
+C:\Users\Elnure\Desktop\PROJE523\REHBER\obj\Debug\REHBER.csproj.GenerateResource.Cache
+C:\Users\Elnure\Desktop\PROJE523\REHBER\obj\Debug\REHBER.Form3.resources
+C:\Users\q\Desktop\PROJE523\REHBER\obj\Debug\REHBER.exe
+C:\Users\q\Desktop\PROJE523\REHBER\obj\Debug\REHBER.pdb
+C:\Users\q\Desktop\PROJE523\REHBER\bin\Debug\REHBER.exe
+C:\Users\q\Desktop\PROJE523\REHBER\bin\Debug\REHBER.pdb
+C:\Users\q\Desktop\PROJE523\REHBER\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\q\Desktop\PROJE523\REHBER\obj\Debug\REHBER.Form2.resources
+C:\Users\q\Desktop\PROJE523\REHBER\obj\Debug\REHBER.Form1.resources
+C:\Users\q\Desktop\PROJE523\REHBER\obj\Debug\REHBER.Form3.resources
+C:\Users\q\Desktop\PROJE523\REHBER\obj\Debug\REHBER.Properties.Resources.resources
+C:\Users\q\Desktop\PROJE523\REHBER\obj\Debug\REHBER.csproj.GenerateResource.Cache
+C:\Users\q\Desktop\PROJE523\REHBER\obj\Debug\REHBER.Form4.resources
+C:\Users\q\Desktop\PROJE523\REHBER\obj\Debug\REHBER.Form5.resources
+C:\Users\Elnure\Desktop\PROJE523\PROJE523\REHBER\obj\Debug\REHBER.exe
+C:\Users\Elnure\Desktop\PROJE523\PROJE523\REHBER\obj\Debug\REHBER.pdb
+C:\Users\Elnure\Desktop\PROJE523\PROJE523\REHBER\bin\Debug\REHBER.exe
+C:\Users\Elnure\Desktop\PROJE523\PROJE523\REHBER\bin\Debug\REHBER.pdb
+C:\Users\Elnure\Desktop\PROJE523\PROJE523\REHBER\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Elnure\Desktop\PROJE523\PROJE523\REHBER\obj\Debug\REHBER.Form2.resources
+C:\Users\Elnure\Desktop\PROJE523\PROJE523\REHBER\obj\Debug\REHBER.Form1.resources
+C:\Users\Elnure\Desktop\PROJE523\PROJE523\REHBER\obj\Debug\REHBER.Form3.resources
+C:\Users\Elnure\Desktop\PROJE523\PROJE523\REHBER\obj\Debug\REHBER.Form4.resources
+C:\Users\Elnure\Desktop\PROJE523\PROJE523\REHBER\obj\Debug\REHBER.Form5.resources
+C:\Users\Elnure\Desktop\PROJE523\PROJE523\REHBER\obj\Debug\REHBER.Properties.Resources.resources
+C:\Users\Elnure\Desktop\PROJE523\PROJE523\REHBER\obj\Debug\REHBER.csproj.GenerateResource.Cache
+C:\Users\Elnure\Desktop\PROJE523\PROJE523\REHBER\obj\Debug\REHBER.Form6.resources
+C:\Users\Elnure\Desktop\PROJE523dogrı\REHBER\obj\Debug\REHBER.exe
+C:\Users\Elnure\Desktop\PROJE523dogrı\REHBER\obj\Debug\REHBER.pdb
+C:\Users\Elnure\Desktop\PROJE523dogrı\REHBER\bin\Debug\REHBER.exe
+C:\Users\Elnure\Desktop\PROJE523dogrı\REHBER\bin\Debug\REHBER.pdb
+C:\Users\Elnure\Desktop\PROJE523dogrı\REHBER\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Elnure\Desktop\PROJE523dogrı\REHBER\obj\Debug\REHBER.Form2.resources
+C:\Users\Elnure\Desktop\PROJE523dogrı\REHBER\obj\Debug\REHBER.Form1.resources
+C:\Users\Elnure\Desktop\PROJE523dogrı\REHBER\obj\Debug\REHBER.Form3.resources
+C:\Users\Elnure\Desktop\PROJE523dogrı\REHBER\obj\Debug\REHBER.Form4.resources
+C:\Users\Elnure\Desktop\PROJE523dogrı\REHBER\obj\Debug\REHBER.Form5.resources
+C:\Users\Elnure\Desktop\PROJE523dogrı\REHBER\obj\Debug\REHBER.Form6.resources
+C:\Users\Elnure\Desktop\PROJE523dogrı\REHBER\obj\Debug\REHBER.Properties.Resources.resources
+C:\Users\Elnure\Desktop\PROJE523dogrı\REHBER\obj\Debug\REHBER.csproj.GenerateResource.Cache
+C:\Users\Elnure\Desktop\Yeni klasör\PROJE523dogrı\REHBER\obj\Debug\REHBER.exe
+C:\Users\Elnure\Desktop\Yeni klasör\PROJE523dogrı\REHBER\obj\Debug\REHBER.pdb
+C:\Users\Elnure\Desktop\Yeni klasör\PROJE523dogrı\REHBER\bin\Debug\REHBER.exe
+C:\Users\Elnure\Desktop\Yeni klasör\PROJE523dogrı\REHBER\bin\Debug\REHBER.pdb
+C:\Users\Elnure\Desktop\Yeni klasör\PROJE523dogrı\REHBER\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Elnure\Desktop\Yeni klasör\PROJE523dogrı\REHBER\obj\Debug\REHBER.Form2.resources
+C:\Users\Elnure\Desktop\Yeni klasör\PROJE523dogrı\REHBER\obj\Debug\REHBER.Form1.resources
+C:\Users\Elnure\Desktop\Yeni klasör\PROJE523dogrı\REHBER\obj\Debug\REHBER.Form3.resources
+C:\Users\Elnure\Desktop\Yeni klasör\PROJE523dogrı\REHBER\obj\Debug\REHBER.Form4.resources
+C:\Users\Elnure\Desktop\Yeni klasör\PROJE523dogrı\REHBER\obj\Debug\REHBER.Form5.resources
+C:\Users\Elnure\Desktop\Yeni klasör\PROJE523dogrı\REHBER\obj\Debug\REHBER.Form6.resources
+C:\Users\Elnure\Desktop\Yeni klasör\PROJE523dogrı\REHBER\obj\Debug\REHBER.Properties.Resources.resources
+C:\Users\Elnure\Desktop\Yeni klasör\PROJE523dogrı\REHBER\obj\Debug\REHBER.csproj.GenerateResource.Cache
+C:\Users\Elnure\Desktop\Yeni klasör\PROJE523dogrı\REHBER\obj\Debug\REHBER.Form7.resources
+C:\Users\Elnure\Desktop\Yeni klasör\PROJE523dogrı\REHBER\obj\Debug\REHBER.Form8.resources
+C:\Users\Elnure\Desktop\Yeni klasör\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.exe
+C:\Users\Elnure\Desktop\Yeni klasör\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.pdb
+C:\Users\Elnure\Desktop\Yeni klasör\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\bin\Debug\REHBER.exe
+C:\Users\Elnure\Desktop\Yeni klasör\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\bin\Debug\REHBER.pdb
+C:\Users\Elnure\Desktop\Yeni klasör\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Elnure\Desktop\Yeni klasör\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form2.resources
+C:\Users\Elnure\Desktop\Yeni klasör\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form1.resources
+C:\Users\Elnure\Desktop\Yeni klasör\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form3.resources
+C:\Users\Elnure\Desktop\Yeni klasör\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form4.resources
+C:\Users\Elnure\Desktop\Yeni klasör\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form5.resources
+C:\Users\Elnure\Desktop\Yeni klasör\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form6.resources
+C:\Users\Elnure\Desktop\Yeni klasör\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form7.resources
+C:\Users\Elnure\Desktop\Yeni klasör\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form8.resources
+C:\Users\Elnure\Desktop\Yeni klasör\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Properties.Resources.resources
+C:\Users\Elnure\Desktop\Yeni klasör\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.csproj.GenerateResource.Cache
+C:\Users\q\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.exe
+C:\Users\q\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.pdb
+C:\Users\q\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\q\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form2.resources
+C:\Users\q\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form1.resources
+C:\Users\q\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form3.resources
+C:\Users\q\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form4.resources
+C:\Users\q\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form5.resources
+C:\Users\q\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form6.resources
+C:\Users\q\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form7.resources
+C:\Users\q\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form8.resources
+C:\Users\q\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Properties.Resources.resources
+C:\Users\q\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.csproj.GenerateResource.Cache
+C:\Users\q\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\bin\Debug\REHBER.exe
+C:\Users\q\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\bin\Debug\REHBER.pdb
+C:\Users\Elnure\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.exe
+C:\Users\Elnure\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.pdb
+C:\Users\Elnure\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\bin\Debug\REHBER.exe
+C:\Users\Elnure\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\bin\Debug\REHBER.pdb
+C:\Users\Elnure\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Elnure\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form2.resources
+C:\Users\Elnure\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form1.resources
+C:\Users\Elnure\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form3.resources
+C:\Users\Elnure\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form4.resources
+C:\Users\Elnure\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form5.resources
+C:\Users\Elnure\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form6.resources
+C:\Users\Elnure\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form7.resources
+C:\Users\Elnure\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form8.resources
+C:\Users\Elnure\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Properties.Resources.resources
+C:\Users\Elnure\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.csproj.GenerateResource.Cache
+C:\Users\Elnure\Desktop\TELEFON REHBERİ PROJE ÖDEVİ\REHBER\obj\Debug\REHBER.Form9.resources
